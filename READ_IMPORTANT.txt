@@ -1,0 +1,5 @@
+NOTA IMPORTANTE:
+-En phpMyAdmin se debe crear una base de datos llamada "oil_wells_project" para poder importar los datos del archivo sql
+
+IMPORTANT NOTE:
+-In phpMyAdmin, you must create a database called "oil_wells_project" in order to import the data from the sql file.
